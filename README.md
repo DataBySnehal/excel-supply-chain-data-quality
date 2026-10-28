@@ -44,3 +44,7 @@ The review count includes both occurrences of a duplicated planning ID. These re
 
 ## Disclaimer
 This is an independent learning project based on fictional data. It is not affiliated with or based on confidential data from any other company.
+
+## Project Results
+
+![Excel data quality summary](image.png)
