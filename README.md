@@ -71,3 +71,5 @@ This is an independent learning project based on fictional data. It is not affil
 - Data quality measures created using DAX.
 
 **Project Outcome:** Created a visual report to help users monitor planning data quality and identify records needing further investigation.
+
+![Supply Chain Data Quality Dashboard](Supply_Chain_Dashboard.png)
