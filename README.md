@@ -48,3 +48,26 @@ This is an independent learning project based on fictional data. It is not affil
 ## Project Results
 
 ![Excel data quality summary](image.png)
+
+
+## Power BI Dashboard
+
+### Supply Chain Data Quality Dashboard
+
+**Objective:** Monitor supply chain planning data quality and identify records that require correction.
+
+**Tools Used:** Power BI Desktop, Power Query, DAX, Excel
+
+**Key Results:**
+- Analyzed 200 planning records.
+- Identified 189 records classified as good.
+- Flagged 11 records requiring review.
+- Calculated an overall data quality rate of 94.5%.
+
+**Dashboard Features:**
+- KPI cards for key data quality indicators.
+- Chart comparing good records with records needing review.
+- Filtered table displaying records that require attention.
+- Data quality measures created using DAX.
+
+**Project Outcome:** Created a visual report to help users monitor planning data quality and identify records needing further investigation.
